@@ -1,2 +1,2 @@
-# spoor-case-study
+# Spoor Case Study Solution
 Case study solution
