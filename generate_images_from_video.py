@@ -5,7 +5,7 @@ from utils import delete_files_in_folder
 
 home = os.path.expanduser('~')
 video_file = './data/pigeon.mp4'
-output_dir = f'{home}/Documents/assignments/images/'
+output_dir = f'{home}/Documents/assignments/spoor/images/'
 
 os.makedirs(output_dir, exist_ok=True)
 delete_files_in_folder(output_dir)
