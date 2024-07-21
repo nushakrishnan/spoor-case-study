@@ -1,2 +1,2 @@
-# Spoor Case Study Solution
-Case study solution
+# A Video Analysis Workflow
+Solution to Spoor Case Study

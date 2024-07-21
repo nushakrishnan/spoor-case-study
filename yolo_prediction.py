@@ -18,8 +18,6 @@ def main(image_dir, model_path, video_file, csv_file):
         if image_file.endswith('.jpg')
     ]
 
-    csv_file = './data/predictions.csv'
-    video_file = './data/pigeon.mp4'
     video = cv2.VideoCapture(video_file)
     if not video.isOpened():
         raise Exception('Error opening video file')
