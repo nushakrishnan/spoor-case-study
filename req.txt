@@ -1,7 +1,6 @@
 pandas
-opencv-python
+opencv-python-headless
 pandas
 seaborn
 matplotlib
-ultralytics
 argparse
