@@ -1,0 +1,7 @@
+pandas
+opencv-python
+pandas
+seaborn
+matplotlib
+ultralytics
+argparse
